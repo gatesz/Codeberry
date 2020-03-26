@@ -1,0 +1,1 @@
+Ebben a projektben egy egyszerû footert készítettünk el.
