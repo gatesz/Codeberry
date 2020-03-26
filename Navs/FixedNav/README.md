@@ -1,0 +1,1 @@
+﻿Rögzített navigáció elkészítése
